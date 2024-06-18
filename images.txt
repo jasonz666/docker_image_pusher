@@ -12,3 +12,5 @@ elasticsearch:8.12.2
 mongo:6.0.6
 redis:5.0.14
 neo4j:4.4.29
+kibana:8.1.1
+kibana:8.12.2
